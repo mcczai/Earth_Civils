@@ -1,0 +1,170 @@
+To refresh this file, delete it and run /reload command again! Last updated: Jan 13, 2023, 11:54:16 AM
+
+#liquidburner:blaze_burner_fuel_all
+- #liquidburner:blaze_burner_fuel_special (from liquidburner-1.19.2-0.2.jar)
+- #liquidburner:blaze_burner_fuel_regular (from liquidburner-1.19.2-0.2.jar)
+
+#forge:crude_oil
+
+#minecraft:water
+- minecraft:water (from Default)
+- minecraft:flowing_water (from Default)
+- create_things_and_misc:slime (from create_misc_and_things_1.19.2_1.1B.jar)
+- create_things_and_misc:flowing_slime (from create_misc_and_things_1.19.2_1.1B.jar)
+- sliceanddice:flowing_fertilizer (from sliceanddice-2.0.0.jar)
+- sliceanddice:fertilizer (from sliceanddice-2.0.0.jar)
+- create_confectionery:black_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_black_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:white_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_white_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:hot_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_hot_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:caramel (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_caramel (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:ruby_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- create_confectionery:flowing_ruby_chocolate (from create-confectionery1.19.2_v1.0.8.jar)
+- createaddition:flowing_seed_oil (from createaddition-1.19.2-20221215a.jar)
+- createaddition:seed_oil (from createaddition-1.19.2-20221215a.jar)
+
+#forge:biodiesel
+- immersiveengineering:biodiesel (from ImmersiveEngineering-1.19.2-9.0.0-153.jar)
+
+#forge:milk
+- minecraft:milk? (from forge-1.19.2-43.1.53-universal.jar)
+- minecraft:flowing_milk? (from forge-1.19.2-43.1.53-universal.jar)
+
+#forge:herbicide
+- immersiveengineering:herbicide (from ImmersiveEngineering-1.19.2-9.0.0-153.jar)
+
+#caupona:boilable
+- #forge:milk (from caupona-1.19.2-0.2.1.jar)
+- minecraft:water (from caupona-1.19.2-0.2.1.jar)
+
+#caupona:pumice_bloom_grow_on
+- minecraft:water (from caupona-1.19.2-0.2.1.jar)
+
+#sliceanddice:moisturizing
+- minecraft:water (from sliceanddice-2.0.0.jar)
+
+#forge:biofuel
+- createaddition:flowing_bioethanol (from createaddition-1.19.2-20221215a.jar)
+- createaddition:bioethanol (from createaddition-1.19.2-20221215a.jar)
+
+#forge:plantoil
+- immersiveengineering:plantoil (from ImmersiveEngineering-1.19.2-9.0.0-153.jar)
+- createaddition:flowing_seed_oil (from createaddition-1.19.2-20221215a.jar)
+- createaddition:seed_oil (from createaddition-1.19.2-20221215a.jar)
+
+#minecraft:lava
+- minecraft:lava (from Default)
+- minecraft:flowing_lava (from Default)
+
+#forge:gaseous
+- immersiveengineering:acetaldehyde (from ImmersiveEngineering-1.19.2-9.0.0-153.jar)
+
+#sliceanddice:fertilizer
+- sliceanddice:flowing_fertilizer (from sliceanddice-2.0.0.jar)
+- sliceanddice:fertilizer (from sliceanddice-2.0.0.jar)
+
+#forge:ethanol
+- immersiveengineering:ethanol (from ImmersiveEngineering-1.19.2-9.0.0-153.jar)
+- createaddition:flowing_bioethanol (from createaddition-1.19.2-20221215a.jar)
+- createaddition:bioethanol (from createaddition-1.19.2-20221215a.jar)
+
+#create:bottomless/deny
+
+#forge:chocolate
+- create:flowing_chocolate (from create-1.19.2-0.5.0.g.jar)
+- create:chocolate (from create-1.19.2-0.5.0.g.jar)
+
+#forge:redstone_acid
+- immersiveengineering:redstone_acid (from ImmersiveEngineering-1.19.2-9.0.0-153.jar)
+
+#create:bottomless/allow
+- minecraft:water (from create-1.19.2-0.5.0.g.jar)
+- minecraft:lava (from create-1.19.2-0.5.0.g.jar)
+
+#forge:concrete
+- immersiveengineering:concrete (from ImmersiveEngineering-1.19.2-9.0.0-153.jar)
+
+#sliceanddice:burning
+- minecraft:lava (from sliceanddice-2.0.0.jar)
+
+#forge:potion
+- immersiveengineering:potion (from ImmersiveEngineering-1.19.2-9.0.0-153.jar)
+
+#watersource:drink
+- caupona:nail_soup (from caupona-1.19.2-0.2.1.jar)
+
+#forge:tea
+- create:flowing_tea (from create-1.19.2-0.5.0.g.jar)
+- create:tea (from create-1.19.2-0.5.0.g.jar)
+
+#liquidburner:blaze_burner_fuel_regular
+- minecraft:lava (from liquidburner-1.19.2-0.2.jar)
+
+#liquidburner:blaze_burner_fuel_special
+- tconstruct:blazing_blood? (from liquidburner-1.19.2-0.2.jar)
+
+#immersiveengineering:drill_fuel
+- #forge:biodiesel (from ImmersiveEngineering-1.19.2-9.0.0-153.jar)
+
+#caupona:stews
+- caupona:egg_tongsui (from caupona-1.19.2-0.2.1.jar)
+- caupona:bone_gelatin (from caupona-1.19.2-0.2.1.jar)
+- caupona:fish_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:pumpkin_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:bisque (from caupona-1.19.2-0.2.1.jar)
+- caupona:fricassee (from caupona-1.19.2-0.2.1.jar)
+- caupona:stracciatella (from caupona-1.19.2-0.2.1.jar)
+- caupona:nettle_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:goji_tongsui (from caupona-1.19.2-0.2.1.jar)
+- caupona:mushroom_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:walnut_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:egg_drop_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:custard (from caupona-1.19.2-0.2.1.jar)
+- caupona:poultry_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:scalded_milk (from caupona-1.19.2-0.2.1.jar)
+- caupona:stock (from caupona-1.19.2-0.2.1.jar)
+- caupona:vegetable_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:nail_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:rice_pudding (from caupona-1.19.2-0.2.1.jar)
+- caupona:borscht (from caupona-1.19.2-0.2.1.jar)
+- caupona:borscht_cream (from caupona-1.19.2-0.2.1.jar)
+- caupona:acquacotta (from caupona-1.19.2-0.2.1.jar)
+- caupona:cream_of_meat_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:dilute_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:porridge (from caupona-1.19.2-0.2.1.jar)
+- caupona:gruel (from caupona-1.19.2-0.2.1.jar)
+- caupona:meat_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:okroshka (from caupona-1.19.2-0.2.1.jar)
+- caupona:pumpkin_soup_cream (from caupona-1.19.2-0.2.1.jar)
+- caupona:seaweed_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:goulash (from caupona-1.19.2-0.2.1.jar)
+- caupona:cream_of_mushroom_soup (from caupona-1.19.2-0.2.1.jar)
+- caupona:fish_chowder (from caupona-1.19.2-0.2.1.jar)
+- caupona:hodgepodge (from caupona-1.19.2-0.2.1.jar)
+- caupona:ukha (from caupona-1.19.2-0.2.1.jar)
+- caupona:congee (from caupona-1.19.2-0.2.1.jar)
+- caupona:vegetable_chowder (from caupona-1.19.2-0.2.1.jar)
+
+#decorative_blocks:thatch
+- decorative_blocks:thatch (from Decorative Blocks-forge-1.19.2-3.0.0.jar)
+- decorative_blocks:flowing_thatch (from Decorative Blocks-forge-1.19.2-3.0.0.jar)
+
+#forge:honey
+- create:flowing_honey (from create-1.19.2-0.5.0.g.jar)
+- create:honey (from create-1.19.2-0.5.0.g.jar)
+
+#forge:creosote
+- immersiveengineering:creosote (from ImmersiveEngineering-1.19.2-9.0.0-153.jar)
+
+#forge:phenolic_resin
+- immersiveengineering:phenolic_resin (from ImmersiveEngineering-1.19.2-9.0.0-153.jar)
+
+#forge:acetaldehyde
+- immersiveengineering:acetaldehyde (from ImmersiveEngineering-1.19.2-9.0.0-153.jar)
+
+#caupona:water
+- caupona:stock (from caupona-1.19.2-0.2.1.jar)
+- caupona:nail_soup (from caupona-1.19.2-0.2.1.jar)
