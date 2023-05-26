@@ -9,7 +9,8 @@
 5.tag的添加与删除
 6.cgm的配方合成修改
 7.物品耐久修改
-8.
+8.tooltip添加以及本地化实现
+9.本地化实现和其他mod模型替换
 
 代码提供：mcczai、lingmao、gundami、lengfenghan
 贴图提供：Tr4gedy
